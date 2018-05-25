@@ -1,0 +1,39 @@
+```body {
+  margin: 0;
+}
+
+header {
+  width: 100%;
+  height: 100px;
+  background: lime;
+}
+
+nav {
+  width: 100%;
+  height: 100px;
+  background-color: pink;
+}
+
+.left {
+  float: left;
+  width: 75%;
+  background-color: yellow;
+  height: 100px;
+}
+
+.right {
+  float: right;
+  width: 25%;
+  background-color: cyan;
+  height: 100px;
+}
+
+.clearfix {
+  clear: both;
+}
+
+footer {
+  width: 100%;
+  height: 100px;
+  background: pink;
+}
